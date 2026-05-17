@@ -21,7 +21,7 @@ This tool helps system administrators track which users are using SSH dynamic po
 
 ### 1. Save the script
 
-Save the script as `ssh-d-monitor.sh`:
+Save the script as `detect.sh`:
 
 ```bash
 
