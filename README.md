@@ -35,6 +35,8 @@ sudo ./detect.sh
 
 ## Example Output Bash
 
+
+```
 === Remote Destinations via Dynamic Proxies (non-local) ===
 
 User       | Session PID | Start Time                | Remote Destination                  | Port   | Count | Status
@@ -42,7 +44,7 @@ User       | Session PID | Start Time                | Remote Destination       
 john       | 23456       | Sun May 17 08:12:45 2026  | 185.230.13.107                      | 443    | 12    | Alive
 alice      | 19873       | Sun May 17 07:45:22 2026  | 104.21.45.92                        | 80     | 3     | Alive
 
-
+```
 
 
 
